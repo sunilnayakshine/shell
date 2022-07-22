@@ -1,1 +1,4 @@
-eksctl create cluster 
+echo -e  "Welcome to EKS Cluster Creation..!!\n\nNote: Please use 'yes' or 'no' response in lowercase only."
+
+
+
